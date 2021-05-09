@@ -1,4 +1,4 @@
-# spring-eureka-server
+# Spring Eureka Server
 Projeto em SpringBoot com microserviços consumindo Eureka Server
 
 ###### Os microserviços rodam em portas aleatórias
